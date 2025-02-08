@@ -2,7 +2,7 @@
 
 # 🎁 Amigo Secreto
 
-¡Bienvenido a la aplicación de Amigo Secreto! 🎉  
+¡Bienvenido a la aplicación de Amigo Secreto!   
 Este proyecto permite ingresar nombres de amigos y seleccionar aleatoriamente uno como el amigo secreto.  
 
 ##  Características  
