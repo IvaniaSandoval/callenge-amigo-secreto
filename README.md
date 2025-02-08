@@ -11,7 +11,7 @@ Este proyecto permite ingresar nombres de amigos y seleccionar aleatoriamente un
 - Mostrar la lista de amigos agregados.  
 - Seleccionar aleatoriamente un amigo secreto.
 
-  📝 Instrucciones de Uso
+## 📝 Instrucciones de Uso
 1- Ingresa los nombres de tus amigos en el campo de texto.
 2- Presiona "Añadir" para agregarlos a la lista.
 3- Cuando tengas todos los nombres, presiona "Sortear Amigo".
