@@ -12,7 +12,7 @@ Este proyecto permite ingresar nombres de amigos y seleccionar aleatoriamente un
 - Seleccionar aleatoriamente un amigo secreto.  
 
 ## 📷 Captura de Pantalla  
-_Aquí puedes agregar una imagen de tu proyecto en acción._  
+![Screenshot from 2025-02-07 18-08-54](https://github.com/user-attachments/assets/6bd4b3f0-a6c5-4d4b-80dd-e06e060718d1)
 
 ## 🛠️ Tecnologías Utilizadas  
 - HTML5  
