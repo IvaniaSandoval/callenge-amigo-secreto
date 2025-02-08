@@ -27,8 +27,6 @@ Este proyecto permite ingresar nombres de amigos y seleccionar aleatoriamente un
 
 
 ## 🛠️ Tecnologías Utilizadas  
-- HTML5  
-- CSS3  
 - JavaScript  
 
 ## 🔧 Instalación y Uso  
