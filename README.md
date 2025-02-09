@@ -27,7 +27,9 @@ Este proyecto permite ingresar nombres de amigos y seleccionar aleatoriamente un
 
 
 ##  Tecnologías Utilizadas  
-- JavaScript  
+🔹 **HTML5** – Estructura del proyecto.  
+🔹 **CSS3** – Estilos y diseño atractivo.  
+🔹 **JavaScript** – Funcionalidad interactiva.  
 
 ##  Instalación y Uso  
 1. Clona este repositorio:  
