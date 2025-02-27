@@ -34,5 +34,5 @@ Este proyecto permite ingresar nombres de amigos y seleccionar aleatoriamente un
 ##  Instalación y Uso  
 1. Clona este repositorio:  
    ```bash
-   git clone https://github.com/tu-usuario/amigo-secreto.git
+   git clone https://github.com/IvaniaSandoval/amigo-secreto.git
 
